@@ -14,9 +14,10 @@ export default function App() {
 
          <Task text = {'Task1'} />
          <Task text = {'Task2'} />
-
-
-
+         <Task text = {'Task2'} /> 
+         <Task text = {'Task2'} />
+         <Task text = {'Task2'} />
+         <Task text = {'Task2'} />
          </View> 
  
       </View>
